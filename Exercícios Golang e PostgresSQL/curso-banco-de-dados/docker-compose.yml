@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  egadeduc-postgres-courses:
+    image: postgres
+    environment:
+      POSTGRES_DB: "egadeduc_courses"
+      POSTGRES_USER: "egadeduc_courses"
+      POSTGRES_PASSWORD: "egadeduc_courses"
+    ports:
+      - "15433:5432"
+    volumes:
+      - ./docker-content/PostgreSQL:/var/lib/postgresql/data
+    networks:
+      - egadeduc-network
+networks:
+  egadeduc-network:
+    driver: bridge

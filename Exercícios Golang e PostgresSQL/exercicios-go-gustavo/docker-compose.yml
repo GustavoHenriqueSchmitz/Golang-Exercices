@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  egadeduc-postgres-courses:
+    image: postgres
+    environment:
+      POSTGRES_DB: "exercicios-go"
+      POSTGRES_USER: "exercicios-go"
+      POSTGRES_PASSWORD: "exercicios-go"
+    ports:
+      - "15433:5432"
+    volumes:
+      - ./docker-content/PostgreSQL:/var/lib/postgresql/data
+    networks:
+      - egadnet-network
+networks:
+  egadeduc-network:
+    driver: bridge
