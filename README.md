@@ -1,8 +1,8 @@
 # Golang_Exercices
 
-## Rabbit V1
+## Rabbit
 
--> Programa que fiz ao estudar rabbitMQ
+-> Programa que fiz ao estudar RabbitMQ.
 
 ## api-cadastro-de-paises
 
@@ -10,7 +10,7 @@
 
 ## Banco-de-dados
 
--> Códigos e testes enquanto estudava PostgresSQL
+-> Códigos e testes enquanto estudava PostgresSQL.
 
 ## Exercícios GO
 
