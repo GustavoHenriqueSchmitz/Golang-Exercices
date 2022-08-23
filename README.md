@@ -6,7 +6,7 @@
 
 ## api-cadastro-de-paises
 
--> Primeira API que fiz, não só em Golang.
+-> Primeira API que fiz em Golang.
 
 ## Banco-de-dados
 
