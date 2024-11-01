@@ -1,17 +1,25 @@
 # Golang_Exercices
 
-## Rabbit
+## Used technologies
+- Golang
 
--> Programa que fiz ao estudar RabbitMQ.
+## Exercises
 
-## api-cadastro-de-paises
+### Rabbit
 
--> Primeira API que fiz em Golang.
+-> Program i made when studying RabbitMQ.
 
-## Banco-de-dados
+### Banco-de-dados
 
--> Códigos e testes enquanto estudava PostgresSQL.
+-> Códigos e testes enquanto estudava PostgresSQL. Codes and tests i made when studying postgreSQL
 
-## Exercícios GO
+### Exercícios GO
 
--> Primeiros programas que fiz em Golang.
+-> First programs made in golang.
+
+## Author
+**Gustavo Henrique Schmitz**
+
+**Linkedin:** https://www.linkedin.com/in/gustavo-henrique-schmitz  
+**Portfolio:** https://gustavohenriqueschmitz.com  
+**Email:** gustavohenriqueschmitz568@gmail.com  
