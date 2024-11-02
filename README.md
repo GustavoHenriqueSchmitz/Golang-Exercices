@@ -1,21 +1,21 @@
 # Golang_Exercices
 
+## About the project
+Some exercises i made while learning Golang. In this case i made an API, each route returns an exercise result.
+
 ## Used technologies
 - Golang
+- PostgreSQL
+- Docker-Compose
 
 ## Exercises
 
-### Rabbit
+### Database-exercises
+- Codes and tests i made when studying postgreSQL
 
--> Program i made when studying RabbitMQ.
-
-### Banco-de-dados
-
--> Códigos e testes enquanto estudava PostgresSQL. Codes and tests i made when studying postgreSQL
-
-### Exercícios GO
-
--> First programs made in golang.
+### Go exercises
+- An API with the first programs/exercises i made in Golang.
+- Access the `exercises.pdf` file to read the description of each exercise.
 
 ## Author
 **Gustavo Henrique Schmitz**
