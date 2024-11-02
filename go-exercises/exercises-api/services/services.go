@@ -1,8 +1,8 @@
 package services
 
 import (
-	"api-go-fiber/models"
 	"errors"
+	"exercises-api/models"
 	"reflect"
 	"sort"
 	"strconv"

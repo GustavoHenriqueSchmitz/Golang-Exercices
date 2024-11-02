@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: "go-exercises"
+      POSTGRES_USER: "go-exercises"
+      POSTGRES_PASSWORD: "go-exercises"
+    ports:
+      - "15433:5432"
+    volumes:
+      - ./docker-content/PostgreSQL:/var/lib/postgresql/data

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"api-go-fiber/controllers"
+	"exercises-api/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )

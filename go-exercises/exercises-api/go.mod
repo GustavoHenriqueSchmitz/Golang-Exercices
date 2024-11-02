@@ -1,4 +1,4 @@
-module api-go-fiber
+module exercises-api
 
 go 1.13
 

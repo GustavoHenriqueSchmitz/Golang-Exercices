@@ -1,8 +1,6 @@
 package main
 
-import (
-	"api-go-gustavo/routes"
-)
+import "exercises-api/routes"
 
 func main() {
 	routes.Requests()
